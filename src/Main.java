@@ -7,7 +7,7 @@ public class Main {
         theHobbit.author =  "J.R.R Tolkien";
         theHobbit.numberOfPages = 430;
 
-        System.out.println("The book name is " + theHobbit.title + "written by " + theHobbit.author + " and has " +
+        System.out.println("The book name is " + theHobbit.title + " written by " + theHobbit.author + " and has " +
                 theHobbit.numberOfPages + " pages.");
     }
 }
