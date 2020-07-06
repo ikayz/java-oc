@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="195f39bd-ced4-4282-b9bb-b10a7a16581a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LessonOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConcatenateStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShortcutMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShortcutMath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,14 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
-  <component name="RunManager" selected="Application.Playground">
+  <component name="RunManager" selected="Application.ConcatenateStrings">
+    <configuration name="ConcatenateStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcatenateStrings" />
+      <module name="Openclassrooms Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Openclassrooms Java" />
@@ -56,6 +62,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConcatenateStrings" />
         <item itemvalue="Application.Playground" />
         <item itemvalue="Application.Main" />
       </list>
