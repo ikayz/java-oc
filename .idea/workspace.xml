@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="195f39bd-ced4-4282-b9bb-b10a7a16581a" name="Default Changelist" comment="" />
+    <list default="true" id="195f39bd-ced4-4282-b9bb-b10a7a16581a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LessonOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShortcutMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShortcutMath.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/ShortcutMath.java" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -86,5 +91,9 @@
       <screen x="0" y="0" width="1475" height="797" />
     </state>
     <state x="420" y="222" key="com.intellij.ide.util.TipDialog/0.0.1475.797@0.0.1475.797" timestamp="1586711908754" />
+    <state x="209" y="17" key="new project wizard" timestamp="1593441435279">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="209" y="17" key="new project wizard/0.0.1536.832@0.0.1536.832" timestamp="1593441435279" />
   </component>
 </project>
