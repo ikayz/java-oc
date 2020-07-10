@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="195f39bd-ced4-4282-b9bb-b10a7a16581a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ConcatenateStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PieceIt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
-  <component name="RunManager" selected="Application.ConcatenateStrings">
+  <component name="RunManager" selected="Application.PieceIt">
     <configuration name="ConcatenateStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenateStrings" />
       <module name="Openclassrooms Java" />
@@ -53,6 +53,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PieceIt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PieceIt" />
+      <module name="Openclassrooms Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Playground" />
       <module name="Openclassrooms Java" />
@@ -62,6 +69,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PieceIt" />
         <item itemvalue="Application.ConcatenateStrings" />
         <item itemvalue="Application.Playground" />
         <item itemvalue="Application.Main" />
@@ -94,6 +102,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594364875369">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.832@0.0.1536.832" timestamp="1594364875369" />
+    <state width="1271" height="158" key="GridCell.Tab.0.bottom" timestamp="1594034062990">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1271" height="158" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1594034062990" />
+    <state width="1271" height="158" key="GridCell.Tab.0.center" timestamp="1594034062989">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1271" height="158" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1594034062989" />
+    <state width="1271" height="158" key="GridCell.Tab.0.left" timestamp="1594034062988">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1271" height="158" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1594034062988" />
+    <state width="1271" height="158" key="GridCell.Tab.0.right" timestamp="1594034062989">
+      <screen x="0" y="0" width="1536" height="832" />
+    </state>
+    <state width="1271" height="158" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1594034062989" />
     <state x="420" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1586711908754">
       <screen x="0" y="0" width="1475" height="797" />
     </state>
