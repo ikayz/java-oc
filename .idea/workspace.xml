@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="195f39bd-ced4-4282-b9bb-b10a7a16581a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PieceIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PieceIt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
   </component>
-  <component name="RunManager" selected="Application.LessonClass">
+  <component name="RunManager" selected="Application.PieceIt">
     <configuration name="ConcatenateStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenateStrings" />
       <module name="Openclassrooms Java" />
@@ -76,8 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LessonClass" />
         <item itemvalue="Application.PieceIt" />
+        <item itemvalue="Application.LessonClass" />
         <item itemvalue="Application.ConcatenateStrings" />
         <item itemvalue="Application.Playground" />
         <item itemvalue="Application.Main" />

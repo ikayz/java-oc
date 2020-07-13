@@ -14,5 +14,11 @@ public class PieceIt {
 
         System.out.println("My name is " + name + " I am " + age + " years old, born in " + dateOfBirth + " and..."
                 + " My favourite type of pet is a " + favouritePet + " which goes by " + petName + " in " + town);
+        Person weight = new Person();
+        weight.weight = 56.5;
+        Person body = new Person();
+        body.bodyType = "Medium";
+
+        System.out.println("The weight of " + name + " is " + weight.weight + " KGs with a " + body.bodyType + " type");
     }
 }
