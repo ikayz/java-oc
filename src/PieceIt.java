@@ -1,3 +1,8 @@
+class Person {
+    double weight = 56.7;
+    String bodyType = "Average";
+}
+
 public class PieceIt {
     public static void main(String[] args) {
         String name = "Isaac Ike";
