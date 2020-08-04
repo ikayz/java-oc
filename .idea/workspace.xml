@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="195f39bd-ced4-4282-b9bb-b10a7a16581a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/PieceIt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PieceIt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,30 +109,30 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594364875369">
+    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596548288662">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.832@0.0.1536.832" timestamp="1594364875369" />
-    <state width="1259" height="157" key="GridCell.Tab.0.bottom" timestamp="1594394158056">
+    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.832@0.0.1536.832" timestamp="1596548288662" />
+    <state width="1253" height="157" key="GridCell.Tab.0.bottom" timestamp="1594678010704">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1259" height="157" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1594394158056" />
-    <state width="1259" height="157" key="GridCell.Tab.0.center" timestamp="1594394158056">
+    <state width="1253" height="157" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1594678010704" />
+    <state width="1253" height="157" key="GridCell.Tab.0.center" timestamp="1594678010703">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1259" height="157" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1594394158056" />
-    <state width="1259" height="157" key="GridCell.Tab.0.left" timestamp="1594394158056">
+    <state width="1253" height="157" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1594678010703" />
+    <state width="1253" height="157" key="GridCell.Tab.0.left" timestamp="1594678010702">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1259" height="157" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1594394158056" />
-    <state width="1259" height="157" key="GridCell.Tab.0.right" timestamp="1594394158056">
+    <state width="1253" height="157" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1594678010702" />
+    <state width="1253" height="157" key="GridCell.Tab.0.right" timestamp="1594678010704">
       <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state width="1259" height="157" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1594394158056" />
-    <state x="420" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1586711908754">
-      <screen x="0" y="0" width="1475" height="797" />
+    <state width="1253" height="157" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1594678010704" />
+    <state x="277" y="61" key="SettingsEditor" timestamp="1596012730499">
+      <screen x="0" y="0" width="1536" height="832" />
     </state>
-    <state x="420" y="222" key="com.intellij.ide.util.TipDialog/0.0.1475.797@0.0.1475.797" timestamp="1586711908754" />
+    <state x="277" y="61" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1596012730499" />
     <state x="209" y="17" key="new project wizard" timestamp="1593441435279">
       <screen x="0" y="0" width="1536" height="832" />
     </state>

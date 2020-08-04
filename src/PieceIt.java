@@ -3,6 +3,14 @@ class Person {
     String bodyType = "Average";
 }
 
+class Vehicle {
+    String type;
+    int makeYear;
+    double tyrePressure;
+    int engineCapacity;
+    int numberOfDoors;
+}
+
 public class PieceIt {
     public static void main(String[] args) {
         String name = "Isaac Ike";
