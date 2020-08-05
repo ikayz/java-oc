@@ -4,7 +4,7 @@ class Person {
 }
 
 class Vehicle {
-    String type;
+    String carType;
     int makeYear;
     double tyrePressure;
     int engineCapacity;
@@ -27,6 +27,14 @@ public class PieceIt {
         Person body = new Person();
         body.bodyType = "Medium";
 
+        // Vehicle class instantiation
+        Vehicle car = new Vehicle();
+        car.carType = "Hatch Back";
+        Vehicle makeYear = new Vehicle();
+        makeYear.makeYear = 2005;
+
+
+        System.out.println("His name is " + name + " he drives a " + car.carType + " made in the year " + makeYear.makeYear);
         System.out.println("The weight of " + name + " is " + weight.weight + " KGs with a " + body.bodyType + " type");
     }
 }
