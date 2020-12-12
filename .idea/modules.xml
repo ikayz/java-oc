@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Openclassrooms Java.iml" filepath="$PROJECT_DIR$/Openclassrooms Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-oc.iml" filepath="$PROJECT_DIR$/java-oc.iml" />
     </modules>
   </component>
 </project>

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="195f39bd-ced4-4282-b9bb-b10a7a16581a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +33,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/ShortcutMath.java" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.ConcatenateStrings">
+  <component name="RunManager" selected="Application.ColorsArray">
+    <configuration name="ColorsArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColorsArray" />
+      <module name="java-oc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConcatenateStrings" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConcatenateStrings" />
       <module name="Openclassrooms Java" />
@@ -75,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ColorsArray" />
         <item itemvalue="Application.PieceIt" />
         <item itemvalue="Application.LessonClass" />
         <item itemvalue="Application.Playground" />
@@ -110,43 +120,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596623002944">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state x="223" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.832@0.0.1536.832" timestamp="1596623002944" />
-    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596705472704">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state x="449" y="152" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.832@0.0.1536.832" timestamp="1596705472704" />
-    <state x="577" y="171" key="FileChooserDialogImpl" timestamp="1597056551455">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state x="577" y="171" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1597056551455" />
-    <state width="1232" height="157" key="GridCell.Tab.0.bottom" timestamp="1596705723681">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1232" height="157" key="GridCell.Tab.0.bottom/0.0.1536.832@0.0.1536.832" timestamp="1596705723681" />
-    <state width="1232" height="157" key="GridCell.Tab.0.center" timestamp="1596705723681">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1232" height="157" key="GridCell.Tab.0.center/0.0.1536.832@0.0.1536.832" timestamp="1596705723681" />
-    <state width="1232" height="157" key="GridCell.Tab.0.left" timestamp="1596705723681">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1232" height="157" key="GridCell.Tab.0.left/0.0.1536.832@0.0.1536.832" timestamp="1596705723681" />
-    <state width="1232" height="157" key="GridCell.Tab.0.right" timestamp="1596705723681">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state width="1232" height="157" key="GridCell.Tab.0.right/0.0.1536.832@0.0.1536.832" timestamp="1596705723681" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1597056554750">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.832@0.0.1536.832" timestamp="1597056554750" />
-    <state x="209" y="17" key="new project wizard" timestamp="1593441435279">
-      <screen x="0" y="0" width="1536" height="832" />
-    </state>
-    <state x="209" y="17" key="new project wizard/0.0.1536.832@0.0.1536.832" timestamp="1593441435279" />
   </component>
 </project>
