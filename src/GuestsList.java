@@ -15,6 +15,10 @@ public class GuestsList {
         guests.set(1, "Chimba");
         guests.set(0, "Yo");
 
+        // Remove guests
+        guests.remove(1);
+        guests.add(1,"Ikayz");
+
         System.out.println("The guests are: ");
         for (String guest:guests) {
             System.out.println(guest);
