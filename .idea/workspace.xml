@@ -39,7 +39,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="nele.options" />
   </component>
-  <component name="RunManager" selected="Application.GuestsList">
+  <component name="RunManager" selected="Application.IngredientsSet">
     <configuration name="ColorsArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ColorsArray" />
       <module name="java-oc" />
@@ -61,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IngredientsSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IngredientsSet" />
+      <module name="java-oc" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LessonClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LessonClass" />
       <module name="Openclassrooms Java" />
@@ -75,20 +82,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Playground" />
-      <module name="Openclassrooms Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IngredientsSet" />
         <item itemvalue="Application.GuestsList" />
         <item itemvalue="Application.ColorsArray" />
         <item itemvalue="Application.PieceIt" />
         <item itemvalue="Application.LessonClass" />
-        <item itemvalue="Application.Playground" />
       </list>
     </recent_temporary>
   </component>
