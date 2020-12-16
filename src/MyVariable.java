@@ -1,6 +1,6 @@
 public class MyVariable {
     public static void main(String[] args) {
-        int ongoingAllowance = 200;
+        final int ongoingAllowance = 200;
         int savings = 3000;
 
         int bonusAllowance = 500;
